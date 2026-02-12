@@ -1,0 +1,10 @@
+# Gephi / graph exports
+*.gexf
+*.gephi
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
