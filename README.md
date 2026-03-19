@@ -1,6 +1,6 @@
 # ECE227 Graph Networking Final Project
 ### Overview
-In this project we looked to examine the following graph networks: Airport routes, Links to other subreddits in subreddit posts, and young adult migration patterns. The repository includes the Jupyter Notebook files where we conducted our network analysis and the Gephi file where we visualized the networks to provide additional analysis.
+In this project we looked to examine the following graph networks: Airport routes, Links to other subreddits in subreddit posts, and young adult migration patterns. This repository includes the Jupyter Notebook files where we conducted our network analysis and the Gephi file where we visualized the networks to provide additional analysis.
 
 ### Datasets
 The datasets can be found here:
